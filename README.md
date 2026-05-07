@@ -34,6 +34,11 @@ python time_tracking_app.py
 ## Author
 Anhelina Hodunko
 
+## Trello Board
+
+Project Management Board:
+https://trello.com/invite/b/69fbff9fb7bd1e5845b8fe7e/ATTIb362b9a7775a4994b6663c8c9627d10113E277E4/моя-доска-trello
+
 
 ## Screenshots
 
