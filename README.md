@@ -37,8 +37,7 @@ Anhelina Hodunko
 ## Trello Board
 
 Project Management Board:
-https://trello.com/invite/b/69fbff9fb7bd1e5845b8fe7e/ATTIb362b9a7775a4994b6663c8c9627d10113E277E4/моя-доска-trello
-
+https://trello.com/invite/b/69fc0426294f874a2496d303/ATTI50e027cf730ff65994144fb97aee5a6b797F1A2A/trello-board-link
 
 ## Screenshots
 
