@@ -33,3 +33,18 @@ python time_tracking_app.py
 
 ## Author
 Anhelina Hodunko
+
+
+## Screenshots
+
+### Empty Application
+![Empty App](screenshot1_empty_app.png)
+
+### Working Application
+![Working App](screenshot3_entry_added.png)
+
+### Validation Error
+![Validation Error](screenshot5_invalid_input.png)
+
+### Empty Fields Error
+![Empty Fields Error](screenshot6_empty_fields_error.png)
